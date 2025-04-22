@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Hiremit
-- 👀 I’m interested in ...MERN stack devlopment
-- 🌱 I’m currently learning ...MERN and AI/ML
+- 👀 I’m MERN stack devloper...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...8733840215
+- 📫 How to reach me ...www.linkedin.com/in/hiremit
 - 😄 Pronouns: ...Mit
 - ⚡ Fun fact: ...I loved to do what i do
 
